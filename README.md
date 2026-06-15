@@ -145,7 +145,7 @@ source .venv/bin/activate
 Install dependencies:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+pip install -r requirements.txt
 ```
 
 Launch Jupyter Notebook:
